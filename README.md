@@ -9,7 +9,7 @@
 💞️ I’m open to collaboration on frontend projects, especially those involving Flutter or any exciting web technologies.
 
 📫 How to reach me:
-- Email: jhonnitp@example.com
+- Email: jhonnitp88@gmail.com
 - Twitter: [@JhonniTp](https://twitter.com/JhonniTp)
 - LinkedIn: [JhonniTp](https://www.linkedin.com/in/jhonnitp/)
 
